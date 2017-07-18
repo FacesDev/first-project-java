@@ -38,7 +38,7 @@ import java.util.*;
                 System.out.println("remainder: " + remainder);
             }
 
-                public static void showResults(Double[] args) {
+                public static void showResults() {
                     System.out.println("The sum is: " + sum);
                     System.out.println("The difference is: " + difference);
                     System.out.println("The divided amount is: " + division);
